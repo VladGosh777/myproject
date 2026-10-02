@@ -1,0 +1,20 @@
+/* Базові стилі для скидання відступів */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Стилізація шапки сайту */
+header {
+    width: 100%;
+    background-color: #f4f4f4;
+}
+
+/* Налаштування навігаційної панелі */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
